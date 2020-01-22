@@ -1,8 +1,6 @@
 # loanapp
 Camino Financial's Backend Take-home Challenge
 
-URL for the API - https://thawing-plains-51101.herokuapp.com
-
 URL for loanapp - https://thawing-plains-51101.herokuapp.com/loanapp/ (make note of the / after loanapp)
 
 URL for status - https://thawing-plains-51101.herokuapp.com/status?id=1234
