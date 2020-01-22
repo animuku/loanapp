@@ -1,6 +1,12 @@
 # loanapp
 Camino Financial's Backend Take-home Challenge
 
+URL for the API - https://thawing-plains-51101.herokuapp.com
+
+Sample loanapp endpoint request-
+
+
+
 To make requests to the loanapp endpoint, make sure that you send a POST request alongwith a .json file and specify the name of the file while making the request as 'file'.
 
 To make requests to the status endpoint, make sure that you send a GET request alongwith a query string with the id of the loan application included.(For example, https:abcd.com/status?id=1234).
